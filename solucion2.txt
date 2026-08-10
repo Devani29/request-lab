@@ -1,0 +1,7 @@
+Solucion ejercicio 2
+Para calcular el IVA de una compra de 75584
+Tenemos que el IVA es de 16%
+Dividimos 75584 entre 1.16
+El resultado es el precio sin IVA que es igual a 65159
+Restamos el precio sin IVA al precio original 75584 menos 65159
+El resultado del valor del IVA es igual a 10425
