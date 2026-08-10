@@ -1,0 +1,4 @@
+Solución del ejercicio 1
+Obtener el 10% de 1300
+Para obtener el porcentaje podemos multiplicar la cantidad por .10
+diez por ciento de 1300 es igual a 1300 * .10 es igual 130
